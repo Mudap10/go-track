@@ -6,7 +6,7 @@
 ██║  ███╗██║   ██║█████╗██║   ██████╔╝███████║██║     █████╔╝ 
 ██║   ██║██║   ██║╚════╝██║   ██╔══██╗██╔══██║██║     ██╔═██╗ 
 ╚██████╔╝╚██████╔╝      ██║   ██║  ██║██║  ██║╚██████╗██║  ██╗
-  ╚═════╝  ╚═════╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+ ╚═════╝  ╚═════╝       ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
 --------------------------------------------------------------
 go cli program to keep track progress
 </pre>
@@ -21,7 +21,8 @@ want to organized all of that stuff? Try go-tracker -- A go program that keep tr
 clone the repo
 
 ```sh
-https://github.com/Mudap10/go-track
+git clone https://github.com/Mudap10/go-track
+cd go-track
 ```
 
 ## Usage example 
