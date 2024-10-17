@@ -26,6 +26,12 @@ cd go-track
 
 ## Usage example 
 
+### run the program
+
+```sh
+./main
+```
+
 ### enter the user name to create json file
 
 ```sh
